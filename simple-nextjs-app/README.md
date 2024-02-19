@@ -1,4 +1,4 @@
-Simple [Next.js](https://nextjs.org/) project that expectes POST requests from [PayButton](paybutton.org) and validates their authenticity.
+Simple [Next.js](https://nextjs.org/) project that expects POST requests from [PayButton](paybutton.org) and validates their authenticity.
 
 ## Getting Started
 
