@@ -1,4 +1,4 @@
-Simple [Next.js](https://nextjs.org/) project that expects POST requests from [PayButton](paybutton.org) and validates their authenticity.
+Simple [Next.js](https://nextjs.org/) project that expects POST requests from [PayButton](https://paybutton.org) and validates their authenticity.
 
 This [Next.js](https://nextjs.org/) project is designed to receive and authenticate payment-related POST requests from [PayButton](https://paybutton.org), guaranteeing their legitimacy. It uses cryptographic verification to confirm that the requests originate from the expected source, and therefore are related to a real payment, utilizing the user's public key associated with their PayButton account.
 
